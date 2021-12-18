@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainCanvas
+  - AdderSpawn
+  - Obstacle
+  - Ground
+  - TpAmount
+  - TpGlow
+  - PlayerHitCollider
+  - CrouchLine
+  - JumpLine
+  - SwitchCollider
+  - Pap
+  - FlipLine
+  - BoomerangFlipper
+  - LilyLine
+  - GasMeter
+  - AmmoAmount
+  - PeanutGlow
+  - NutBullet
+  - PlaneFlipper
+  - PhysicalCollider
+  - GroanWave
+  - MonkeyPoop
+  - ShartPrize
+  - Grabber
+  - FullScreenItem
+  - UfoTurret
+  - UfoLine
+  - UfoHoleSpawn
+  - FrogCollider
+  - BalloonCancel
+  - Balloon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Mask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TurtleMask
+    uniqueID: 121732879
+    locked: 0
